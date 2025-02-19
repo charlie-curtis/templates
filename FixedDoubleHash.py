@@ -21,4 +21,4 @@ class FixedDoubleHash:
         self.h2%=self.MOD2
     
     def get(self):
-        return (self.h1, self.h2
+        return (self.h1, self.h2)
